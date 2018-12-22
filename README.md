@@ -56,13 +56,13 @@ List of Prerequisite Hardware / Software:
 
 - Assembled Buffalo Car running Linux and ROS on its on-board Raspberry Pi.                                   (Contact Dr. Murray to get access to the custom Ras_Pi OS image)
 
-  ![1](images/1.jpg)
+  ![](images/1.jpg)
 
 - Preconfigured Wi-Fi Router and Necessary Ethernet Cables.
 
   (Contact Dr. Murray to get the Secure Shell Password for the Buffalo Car)
 
-  ![2](images/2.jpg)
+  ![](images/2.jpg)
 
   ​												* Ubuntu can also be run from a Virtual Machine
 
